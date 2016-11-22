@@ -70,7 +70,7 @@ int main(int argc, char** argv) {
 	//MenuInit(); //регистрирует функции меню
 	glutMainLoop(); //запуск главного цикла(стандартная функция GLUT)
 
-
+	
 
 	_getch();
 	return 1;
